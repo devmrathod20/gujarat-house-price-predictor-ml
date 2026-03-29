@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+prediction_history.csv
+.DS_Store
+*.log
+.env
+*.pkl

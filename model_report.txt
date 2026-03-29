@@ -1,0 +1,6 @@
+Gujarat House Price Prediction Model Report
+------------------------------------------
+Rows used: 12578
+Features: ['City', 'Locality', 'Property Type', 'BHK', 'Area (SqFt)', 'Furnishing', 'Property Age (Years)', 'Nearby Schools', 'Nearby Hospitals', 'Parking', 'Security', 'Availability']
+MAE: 123.79 Lakhs
+R2 Score: -0.0250

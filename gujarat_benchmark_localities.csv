@@ -1,0 +1,18 @@
+City,Locality,Avg_Price_Per_SqFt,Low_Price_Per_SqFt,High_Price_Per_SqFt,Source
+Ahmedabad,Bopal,5200,4550,6150,99acres avg/range
+Ahmedabad,South Bopal,5250,4500,6000,99acres avg/range
+Ahmedabad,Gota,5450,4800,6100,99acres range midpoint
+Ahmedabad,Chandkheda,4875,4150,5600,99acres range midpoint
+Ahmedabad,Satellite,8150,6500,9800,99acres range midpoint
+Ahmedabad,Thaltej,8100,6850,9350,99acres range midpoint
+Surat,Vesu,5600,4900,6650,99acres avg/range
+Surat,Adajan,3950,3250,4650,99acres range midpoint
+Surat,Pal,4650,4650,4650,99acres avg
+Surat,Althan,4350,4350,4350,99acres avg
+Surat,Piplod,8250,4050,12450,99acres range midpoint
+Vadodara,Alkapuri,4550,4550,4550,99acres avg
+Vadodara,Atladra,3000,2300,3700,99acres range midpoint
+Vadodara,New Alkapuri,3550,3550,3550,99acres avg
+Rajkot,Kalavad Road,5250,4750,10150,99acres avg/range
+Rajkot,Raiya,6500,5250,7750,99acres range midpoint
+Gandhinagar,Raysan,4775,4250,5300,99acres range midpoint
