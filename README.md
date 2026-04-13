@@ -38,6 +38,26 @@ The system is developed as part of my final year internship project.
 
 ---
 
+📷 Demo
+
+<img width="1920" height="1080" alt="Screenshot (317)" src="https://github.com/user-attachments/assets/bb6415b1-311f-4998-91dc-cc35a925a8f9" />
+<img width="1920" height="1080" alt="Screenshot (318)" src="https://github.com/user-attachments/assets/940a0408-22e0-47ad-a8b0-2e4c3e618874" />
+<img width="1920" height="1080" alt="Screenshot (319)" src="https://github.com/user-attachments/assets/b46736f2-030b-421e-9df1-110f5fc3092e" />
+
+---
+
+📈 Future Improvements
+
+Add more features like location encoding
+Improve model accuracy
+Deploy fully online
+
+---
+
+🤝 Connect with Me
+
+LinkedIn: www.linkedin.com/in/dev-rathod20
+
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
