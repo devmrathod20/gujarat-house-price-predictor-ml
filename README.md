@@ -1,5 +1,10 @@
 # Gujarat House Price Prediction System
 
+## 🚀 Live Demo
+👉 https://gujarathousepriceprediction.streamlit.app
+
+---
+
 ## 📌 Overview
 This project is a Machine Learning based web application that predicts house prices in Gujarat based on various features like city, locality, area, BHK, furnishing, property age, and parking.
 
@@ -19,11 +24,10 @@ The system is developed as part of my final year internship project.
 
 ## 🛠️ Technologies Used
 - Python
-- Streamlit
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib
+- Streamlit
 
 ---
 
@@ -38,7 +42,7 @@ The system is developed as part of my final year internship project.
 
 ---
 
-📷 Demo
+## 📷 Demo
 
 <img width="1920" height="1080" alt="Screenshot (317)" src="https://github.com/user-attachments/assets/bb6415b1-311f-4998-91dc-cc35a925a8f9" />
 <img width="1920" height="1080" alt="Screenshot (318)" src="https://github.com/user-attachments/assets/940a0408-22e0-47ad-a8b0-2e4c3e618874" />
@@ -46,15 +50,7 @@ The system is developed as part of my final year internship project.
 
 ---
 
-📈 Future Improvements
-
-Add more features like location encoding
-Improve model accuracy
-Deploy fully online
-
----
-
-🤝 Connect with Me
+## 🤝 Connect with Me
 
 LinkedIn: www.linkedin.com/in/dev-rathod20
 
